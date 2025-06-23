@@ -9,9 +9,9 @@ Dans le cadre de ma formation en cybersécurité, j’ai mené un projet de séc
 - **Cahier des charges**  
   [Consulter le PDF](https://github.com/KenziBoughadou/Securisation-SI-d-un-etablissement-hospitalier/blob/main/ProjetSSI%20-%20Cahier%20des%20charges.pdf)
 - **Plan de Continuité et de Reprise d’Activité (PCA/PRA)**  
-  [Consulter le PDF](lien_drive_ou_github_PCA_PRA)
+  [Consulter le PDF](https://github.com/KenziBoughadou/Securisation-SI-d-un-etablissement-hospitalier/blob/main/ProjetSSI%20-%20PCA%20PRA%20(1).pdf)
 - **Politique de Sécurité du SI (PSSI)**  
-  [Consulter le PDF](lien_drive_ou_github_PSSI)
+  [Consulter le PDF](https://github.com/KenziBoughadou/Securisation-SI-d-un-etablissement-hospitalier/blob/main/ProjetSSI%20-%20Politique%20de%20S%C3%A9curit%C3%A9%20du%20Syst%C3%A8me.pdf)
 
 ### Compétences mobilisées
 
