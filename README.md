@@ -8,7 +8,7 @@ Bienvenue sur ce dépôt dédié à un projet complet de sécurisation du systè
 
 Les hôpitaux sont aujourd’hui des cibles privilégiées des cyberattaques : données médicales, continuité des soins, conformité réglementaire… La moindre faille peut avoir des conséquences humaines et économiques majeures.
 
-Ce projet, mené avec Hugo Grillet, visait à :
+Ce projet, visait à :
 - Auditer en profondeur un SI hospitalier existant,
 - Formaliser les besoins de sécurité métiers et réglementaires (RGPD, HDS, ISO 27001/27799),
 - Définir et documenter une architecture technique résiliente,
