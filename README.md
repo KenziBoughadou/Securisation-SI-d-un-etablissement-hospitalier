@@ -7,7 +7,7 @@ Dans le cadre de ma formation en cybersécurité, j’ai mené un projet de séc
 ### Livrables
 
 - **Cahier des charges**  
-  [Consulter le PDF](lien_drive_ou_github_cahier_des_charges)
+  [Consulter le PDF](https://github.com/KenziBoughadou/Securisation-SI-d-un-etablissement-hospitalier/blob/main/ProjetSSI%20-%20Cahier%20des%20charges.pdf)
 - **Plan de Continuité et de Reprise d’Activité (PCA/PRA)**  
   [Consulter le PDF](lien_drive_ou_github_PCA_PRA)
 - **Politique de Sécurité du SI (PSSI)**  
