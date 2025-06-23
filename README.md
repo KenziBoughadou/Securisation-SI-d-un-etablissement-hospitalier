@@ -65,8 +65,8 @@ Ce projet, visait à :
 
 ## 📄 Livrables du projet
 
-- [Cahier des charges (PDF)](https://github.com/KenziBoughadou/Securisation-SI-d-un-etablissement-hospitalier/raw/main/ProjetSSI%20-%20Cahier%20des%20charges.pdf)  
+- [Cahier des charges (PDF)](https://github.com/KenziBoughadou/Securisation-SI-d-un-etablissement-hospitalier/blob/main/ProjetSSI%20-%20Cahier%20des%20charges.pdf)  
   > Audit initial, cartographie, identification des besoins métiers, techniques et réglementaires.
 
-- [Plan de Continuité et de Reprise d’Activité – PCA/PRA (PDF)](https://github.com/KenziBoughadou/Securisation-SI-d-un-etablissement-hospitalier/raw/main/ProjetSSI%20-%20PCA%20PRA%20(1).pd
+- [Plan de Continuité et de Reprise d’Activité – PCA/PRA (PDF)](https://github.com/KenziBoughadou/Securisation-SI-d-un-etablissement-hospitalier/blob/main/ProjetSSI%20-%20PCA%20PRA%20(1).pdf)
 
